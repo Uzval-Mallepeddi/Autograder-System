@@ -10,11 +10,11 @@
 -	Instructor can grade the uploaded solution after the due date 
 -	Student can view the grade and feedback of the particular assignment
 
-1. Student:
+1. **_Student_**:
   -	View the uploaded assignments
   -	Submit the code in zip file
   -	View feedback of the graded assignments
-2. Instructor:
+2. **_Instructor_**:
   -	Upload Assignments
   -	Upload Test cases
   -	Grade Assignment
@@ -48,7 +48,6 @@
 8. In instructor page, instructors can able to see all assignments on dashboard
 9. Instructor should get “Grade all” button option, whenever assignment submission date is exceeded.
 10. After clicking Grade button on instructor page, Grades can see on instructor page and student page. 
-11. 
 
 ### Student -
 1. In the login page, the student needs to enter the required email address and password and then click ‘login’ button to advance to the assignment table page.
