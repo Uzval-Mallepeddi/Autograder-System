@@ -45,7 +45,7 @@
 7. The add assignment’s page also has the test cases and the expected section where the user can upload the test case file and the expected output file. The page also has the following buttons:
   - **_Upload_**: By clicking on the upload button, the instructor can upload both the test case file and the expected output file.
   - **_Clear all_**: By clicking on the clear all button, all the fields in the page will be cleared so that the instructor can   make the necessary changes.
-8. In instructor page, instructors can able to see all assignments on dashboard
+8. In instructor page, instructors can able to see all assignments on dashboard.
 9. Instructor should get “Grade all” button option, whenever assignment submission date is exceeded.
 10. After clicking Grade button on instructor page, Grades can see on instructor page and student page. 
 
